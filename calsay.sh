@@ -90,7 +90,7 @@ fi
 
 # https://www.mrvirusspm.com/index.html/data-2
 # data 2
-if [ $gay = 2 ]; then
+if [ $gay = 3 ]; then
 echo "=> install github" | lolcat
 sleep 1
 git clone https://github.com/zlucifer/troll_project
@@ -106,7 +106,7 @@ fi
 
 # https://www.mrvirusspm.com/index.html/data-3
 # data 3
-if [ $gay = 3 ]; then
+if [ $gay = 2 ]; then
 echo "=> install github" | lolcat
 sleep 1
 git clone https://github.com/AbilSeno/MDSpammers
