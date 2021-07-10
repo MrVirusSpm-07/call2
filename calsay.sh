@@ -101,7 +101,7 @@ cd troll_project
 sleep 1
 echo "=> instal selesai" | lolcat
 sleep 2
-sh trol.sh
+sh troll.sh
 fi
 
 # https://www.mrvirusspm.com/index.html/data-3
