@@ -29,7 +29,7 @@ yellow='\033[33;1m'
 
 # tampilan
 clear
-xdg-open https://youtube.com/channel/UCIEWrGcR1N4v4eIkVh3mX8Q
+xdg-open https://youtube.com/channel/UCSJohuQCtqfD2P73Z65g8jg
 sleep 1
 echo
 toilet CALLSAY | lolcat
